@@ -12,7 +12,7 @@ There are [resources](https://www.makeareadme.com) available to help you write a
 
 Run server:
 
-```
+```console
 poetry run flask --app todo run -p 6400
 ```
 
